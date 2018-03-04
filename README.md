@@ -6,5 +6,5 @@
 - Strings: [условия](Strings/problems.pdf)
 - Dinamic: [условия](Dinamic/problems.pdf)
 - Graphs:  [условия](Graphs/problems.pdf)
-- ShortWays]: [условия](ShortWays/problems.pdf)      
+- ShortWays: [условия](ShortWays/problems.pdf)      
 - MaxFlow:   
