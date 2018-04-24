@@ -2,9 +2,17 @@
 
 ## Лабораторные работы
 
+### 2 Семестр
+
+- Dinamic: [условия](Dinamic/problems.pdf)
+- ShortWays: [условия](ShortWays/problems.pdf)
+- Graphs:  [условия](Graphs/problems.pdf)
+
+### 3 Семестр
+
 - LCA: [условия](LCA/problems.pdf)
 - Strings: [условия](Strings/problems.pdf)
-- Dinamic: [условия](Dinamic/problems.pdf)
-- Graphs:  [условия](Graphs/problems.pdf)
-- ShortWays: [условия](ShortWays/problems.pdf)      
-- MaxFlow:   
+
+### 4 Семестр
+
+- MaxFlow: [условия](MaxFlow/problems.pdf)       
