@@ -15,4 +15,5 @@
 
 ### 4 Семестр
 
-- MaxFlow: [условия](MaxFlow/problems.pdf)       
+- MaxFlow: [условия](MaxFlow/problems.pdf)
+- MinCost: [условия](Min-Cost/problems.pdf)  
