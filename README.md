@@ -4,16 +4,17 @@
 
 ### 2 Семестр
 
-- Dinamic: [условия](Dinamic/problems.pdf)
-- ShortWays: [условия](ShortWays/problems.pdf)
-- Graphs:  [условия](Graphs/problems.pdf)
+- Dinamic: [условиe](Dinamic/problems.pdf)
+- ShortWays: [условиe](ShortWays/problems.pdf)
+- Graphs:  [условиe](Graphs/problems.pdf)
 
 ### 3 Семестр
 
-- LCA: [условия](LCA/problems.pdf)
-- Strings: [условия](Strings/problems.pdf)
+- LCA: [условиe](LCA/problems.pdf)
+- Strings: [условиe](Strings/problems.pdf)
 
 ### 4 Семестр
 
-- MaxFlow: [условия](MaxFlow/problems.pdf)
-- MinCost: [условия](Min-Cost/problems.pdf)  
+- MaxFlow: [условиe](MaxFlow/problems.pdf)
+- MinCost: [условиe](Min-Cost/problems.pdf)
+- Cryptography: [условиe](Cryptography/problems.pdf) [решение](Cryptography)
