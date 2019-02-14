@@ -4,7 +4,7 @@
 
 ### 2 Семестр
 
-- Dinamic: [условиe](Dinamic/problems.pdf) [решение](Dinamic)
+- Dynamic: [условиe](Dynamic/problems.pdf) [решение](Dynamic)
 - ShortWays: [условиe](ShortWays/problems.pdf) [решение](ShortWays)
 - Graphs:  [условиe](Graphs/problems.pdf) [решение](Graphs)
 
